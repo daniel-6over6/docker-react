@@ -14,7 +14,7 @@ it('renders with god', () => {
   ReactDOM.unmountComponentAtNode(div);
 });
 
-it('renders with god', () => {
+it('renders with god2', () => {
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
